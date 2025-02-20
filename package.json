@@ -5,7 +5,7 @@
     "main": "server.js",
     "scripts": {
       "start": "node server.js",
-      "sass": "sass --watch public/styles.scss:public/styles.css"
+      "sass": "sass --watch /styles.scss:/styles.css"
     },
     "author": "Ваше имя",
     "license": "ISC",
