@@ -1,0 +1,16 @@
+{
+    "name": "assignment-project",
+    "version": "1.0.0",
+    "description": "Проект для выполнения задания с HTML, Sass, Bootstrap и Node.js сервером.",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js",
+      "sass": "sass --watch public/styles.scss:public/styles.css"
+    },
+    "author": "Ваше имя",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {
+      "sass": "^1.64.0"
+    }
+  }
